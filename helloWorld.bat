@@ -1,5 +1,5 @@
 @echo off
-echo Hello World from %AGENT_NAME%.
+echo Hello World from Test %AGENT_NAME%.
 echo My ID is %AGENT_ID%.
 echo AGENT_WORKFOLDER contents:
 @dir %AGENT_WORKFOLDER%
